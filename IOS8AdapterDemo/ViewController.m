@@ -7,8 +7,10 @@
 //
 
 #import "ViewController.h"
+#import "BMMacroDefinition.h"
 
 @interface ViewController ()
+@property (weak, nonatomic) IBOutlet UIView *TextContainer;
 
 @end
 
@@ -17,6 +19,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    self.view.backgroundColor = RGB(74, 171, 247);
+    self.TextContainer.backgroundColor = RGB(55, 128, 186);
+    
 }
 
 - (void)didReceiveMemoryWarning {

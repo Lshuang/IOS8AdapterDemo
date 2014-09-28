@@ -27,6 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		844868B319D7F62900476066 /* BMMacroDefinition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BMMacroDefinition.h; sourceTree = "<group>"; };
 		84C49E1219D674D900191065 /* IOS8AdapterDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IOS8AdapterDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84C49E1619D674D900191065 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84C49E1719D674D900191065 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -81,13 +82,14 @@
 		84C49E1419D674D900191065 /* IOS8AdapterDemo */ = {
 			isa = PBXGroup;
 			children = (
-				84C49E1919D674D900191065 /* AppDelegate.h */,
-				84C49E1A19D674D900191065 /* AppDelegate.m */,
+				844868B319D7F62900476066 /* BMMacroDefinition.h */,
 				84C49E1C19D674D900191065 /* ViewController.h */,
 				84C49E1D19D674D900191065 /* ViewController.m */,
 				84C49E1F19D674D900191065 /* Main.storyboard */,
 				84C49E2219D674D900191065 /* Images.xcassets */,
 				84C49E2419D674D900191065 /* LaunchScreen.xib */,
+				84C49E1919D674D900191065 /* AppDelegate.h */,
+				84C49E1A19D674D900191065 /* AppDelegate.m */,
 				84C49E1519D674D900191065 /* Supporting Files */,
 			);
 			path = IOS8AdapterDemo;
@@ -412,6 +414,7 @@
 				84C49E3719D674D900191065 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		84C49E3819D674D900191065 /* Build configuration list for PBXNativeTarget "IOS8AdapterDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +423,7 @@
 				84C49E3A19D674D900191065 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
