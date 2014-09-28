@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		844868B519D8253100476066 /* IOS8Adapter.png in Resources */ = {isa = PBXBuildFile; fileRef = 844868B419D8253100476066 /* IOS8Adapter.png */; };
 		84C49E1819D674D900191065 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 84C49E1719D674D900191065 /* main.m */; };
 		84C49E1B19D674D900191065 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 84C49E1A19D674D900191065 /* AppDelegate.m */; };
 		84C49E1E19D674D900191065 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84C49E1D19D674D900191065 /* ViewController.m */; };
@@ -28,6 +29,7 @@
 
 /* Begin PBXFileReference section */
 		844868B319D7F62900476066 /* BMMacroDefinition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BMMacroDefinition.h; sourceTree = "<group>"; };
+		844868B419D8253100476066 /* IOS8Adapter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IOS8Adapter.png; sourceTree = "<group>"; };
 		84C49E1219D674D900191065 /* IOS8AdapterDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IOS8AdapterDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84C49E1619D674D900191065 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84C49E1719D674D900191065 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -98,6 +100,7 @@
 		84C49E1519D674D900191065 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				844868B419D8253100476066 /* IOS8Adapter.png */,
 				84C49E1619D674D900191065 /* Info.plist */,
 				84C49E1719D674D900191065 /* main.m */,
 			);
@@ -203,6 +206,7 @@
 			files = (
 				84C49E2119D674D900191065 /* Main.storyboard in Resources */,
 				84C49E2619D674D900191065 /* LaunchScreen.xib in Resources */,
+				844868B519D8253100476066 /* IOS8Adapter.png in Resources */,
 				84C49E2319D674D900191065 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
