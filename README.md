@@ -6,7 +6,7 @@ IOS8AdapterDemo
 Adaptivity、Size Classes、Traits、AutoLayout
 
 ##效果图
- ![image](https://raw.githubusercontent.com/skyming/BMAdScrollView/master/BMADScrollViewDemo/BMAdsView1.png)
+ ![image](https://raw.githubusercontent.com/skyming/IOS8AdapterDemo/master/IOS8AdapterDemo/IOS8Adapter.png)
 
 ###官网资料
 
