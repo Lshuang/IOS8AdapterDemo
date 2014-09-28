@@ -1,26 +1,18 @@
 IOS8AdapterDemo
 
 #iOS8适配入门 &amp; 资料总结
+--------------------------------------------------------------------
 
-###关键词：
+##关键词：
 Adaptivity、Size Classes、Traits、AutoLayout
 
-###博客
-####中文：
-1. http://onevcat.com/2014/07/ios-ui-unique/
-2. http://blog.sunnyxx.com/2014/09/09/ios8-size-classes/
+###官网资料
 
-####英文：
-1. http://www.raywenderlich.com/83276/beginning-adaptive-layout-tutorial
-2. http://www.imore.com/adaptive-ui-ios-8-explained
-3. http://www.raywenderlich.com/76663/adaptive-ui-raywenderlich-com-podcast-episode-8
-4.http://blog.nerdery.com/2014/08/overcoming-ipad-tax-ios-8-adaptive-ui/ 
+####专题
 
-###官网资料：
-####专题：
 https://developer.apple.com/design/adaptivity/
 
-####Simple Code:
+####Simple Code
 1. LookInsidePresentationControllersAdaptivityandCustomAnimatorObjects
 2. AdaptivePhotosAnAdaptiveApplication
 
@@ -31,11 +23,25 @@ https://developer.apple.com/design/adaptivity/
 4. View Controller Advancements in iOS 8
 5. A Look Inside Presentation Controllers
 
-####Autolayout
+
+### 相关博客
+
+#### 中文：
+1. http://onevcat.com/2014/07/ios-ui-unique/
+2. http://blog.sunnyxx.com/2014/09/09/ios8-size-classes/
+
+#### 英文：
+1. http://www.raywenderlich.com/83276/beginning-adaptive-layout-tutorial
+2. http://www.imore.com/adaptive-ui-ios-8-explained
+3. http://www.raywenderlich.com/76663/adaptive-ui-raywenderlich-com-podcast-episode-8
+4. http://blog.nerdery.com/2014/08/overcoming-ipad-tax-ios-8-adaptive-ui/  
+
+
+### Autolayout
 关键词：Align、Pin、Resolve autolayout issues、Resize Behavior
 
-#####中文：
+##### 中文：
 1. http://www.cocoachina.com/industry/20131203/7462.html
 
-##TODo：
+#### TODo：
 英文：
