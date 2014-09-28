@@ -2,9 +2,11 @@ IOS8AdapterDemo
 
 #iOS8适配入门 &amp; 资料总结
 --------------------------------------------------------------------
-
 ##关键词：
 Adaptivity、Size Classes、Traits、AutoLayout
+
+##效果图
+ ![image](https://raw.githubusercontent.com/skyming/BMAdScrollView/master/BMADScrollViewDemo/BMAdsView1.png)
 
 ###官网资料
 
