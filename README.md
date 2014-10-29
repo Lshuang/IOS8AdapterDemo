@@ -42,8 +42,14 @@ https://developer.apple.com/design/adaptivity/
 ### Autolayout
 关键词：Align、Pin、Resolve autolayout issues、Resize Behavior
 
-##### 中文：
-1. http://www.cocoachina.com/industry/20131203/7462.html
+#### 官方：
+1.  AutoLayout Guide
+    https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/AutolayoutPG/Introduction/Introduction.html#//apple_ref/doc/uid/TP40010853-CH13-SW1
 
-#### TODo：
-英文：
+2.  Taking Control of Auto Layout in Xcode
+    https://developer.apple.com/videos/wwdc/2013/#406
+#### 中文：
+1. http://www.cocoachina.com/industry/20131203/7462.html
+#### 英文：
+1.  http://www.appcoda.com/introduction-auto-layout/
+2.  http://carpeaqua.com/autolayout/
